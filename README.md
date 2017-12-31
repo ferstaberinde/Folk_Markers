@@ -4,7 +4,7 @@
 
 **Addon:** Folk Markers
 
-**Version:** 0-0-2
+**Version:** 0-0-3
 
 **Developer(s):** Republic of Folk (hi@republicoffolk.org)
 
@@ -17,6 +17,8 @@
 0-0-1 | 2017-12-24 | Initial build.
 
 0-0-2 | 2017-12-24 | Added hazard icons for kefirz.
+
+0-0-3 | 2017-12-31 | Beta build for release.
 
 ## COPYRIGHT STATEMENT
 
@@ -59,3 +61,7 @@ Initial build.
 
 0-0-2 | 2017-12-24
 Added hazard icons for kefirz (biohazard, emission, hazard, high voltage, radiation and skull).
+
+0-0-3 | 2017-12-31
+Changed display name of markers class in the editor
+Removed several markers from use during missions
