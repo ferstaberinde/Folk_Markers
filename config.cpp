@@ -13,7 +13,7 @@ class CfgPatches
 
 class CfgMarkerClasses {
    class FolkMarkers {
-       displayName="Folk Markers";
+       displayName="Soviet Markers (by Republic of Folk)";
    };
 };
 
@@ -56,7 +56,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_ambush
@@ -66,7 +66,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_attack_company
@@ -76,7 +76,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
    class folk_attack_platoon
@@ -86,7 +86,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_biohazard
@@ -176,7 +176,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_defensive_position_enemy
@@ -186,7 +186,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_emission
@@ -206,7 +206,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_hazard
@@ -266,7 +266,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_helicopter_landing_site
@@ -376,7 +376,7 @@ class CfgMarkers
     color[]={1,0,0,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_radiation
