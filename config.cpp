@@ -5,6 +5,7 @@ class CfgPatches
     units[] = {};
     weapons[] = {};
     requiredVersion=1.00;
+    requiredAddons[] = {"A3_Ui_F", "A3_Ui_F_Data"};
     author = "Republic of Folk";
     url = "http://republicoffolk.org";
   };
@@ -25,7 +26,7 @@ class CfgMarkers
     color[]={1,1,1,1};
     size=32;
     shadow = 0;
-    scope = 2;
+    scope = 1;
     markerClass = "FolkMarkers";
   };
   class folk_152mm_gun_battery
